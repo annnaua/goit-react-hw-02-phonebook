@@ -1,7 +1,5 @@
 import styled from 'styled-components';
 
-import { Field } from 'formik';
-
 export const FilterFormLable = styled.label`
   display: flex;
   flex-direction: column;
