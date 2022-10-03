@@ -49,6 +49,6 @@ export const ContactForm = ({ onAddContact }) => {
   );
 };
 
-ContactForm.propType = {
+ContactForm.propTypes = {
   onAddContact: PropTypes.func.isRequired,
 };
